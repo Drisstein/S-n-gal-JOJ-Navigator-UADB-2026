@@ -7,7 +7,7 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "JOJ Sénégal 2026 — Carte officielle des sites olympiques" },
+      { title: "UADJOJ Sénégal 2026 — Carte officielle des sites olympiques" },
       { name: "description", content: "Carte interactive des sites des Jeux Olympiques de la Jeunesse Sénégal 2026 : stades, routes nationales et villes." },
       { property: "og:title", content: "JOJ Sénégal 2026 — Carte officielle" },
       { property: "og:description", content: "Explorez les sites olympiques, routes et villes du Sénégal pour les JOJ 2026." },
